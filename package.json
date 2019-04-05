@@ -1,0 +1,13 @@
+{
+  "name": "@axel669/rollup-plugin-path-alias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Axel",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}
